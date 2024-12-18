@@ -1,5 +1,5 @@
 ## **👨‍💻 About Me**
-Hi! I am a passionate **Software Developer** specializing in **Payment Systems Development**, **Loan Processing Automation**, and **Financial Technologies**. I thrive on solving complex problems and delivering impactful solutions. With expertise in **C#, ASP.NET, Flutter, React.js**, and **SQL Server**, I aim to build scalable, efficient, and user-friendly applications.
+Hi! I am a passionate **Software Developer** specializing in **Payment Systems Development**, **Loan Processing Automation**, **.NET Framework Technologies**, and **Financial Technologies**. I thrive on solving complex problems and delivering impactful solutions. With expertise in **C#, ASP.NET, Flutter, React.js**, and **SQL Server**, I aim to build scalable, efficient, and user-friendly applications.
 
 ---
 
