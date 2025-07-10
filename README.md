@@ -53,5 +53,5 @@ Here are the tools and technologies I use, represented with badges and icons for
 
 ## 📈 GitHub Stats
 ![Justus Kasyoki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justus57&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justus57&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justus57&layout=compact&theme=radical
 
