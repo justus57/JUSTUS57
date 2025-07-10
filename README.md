@@ -52,5 +52,6 @@ Here are the tools and technologies I use, represented with badges and icons for
 - [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://justus57.github.io/Portfolio/)  
 
 ## 📈 GitHub Stats
+![Justus Kasyoki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justuskasyoki&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justuskasyoki&layout=compact&theme=radical)
 
-![Joseph Justus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-profile&layout=compact&theme=radical)
